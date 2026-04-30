@@ -8,8 +8,8 @@ export default class Info {
 
   infoMegjelenit() {
     let k = `<div class="info">
-                <p>${this.#obj.types[0].type.name}<p>
-                <p>${this.#obj.types[1].type.name}<p>
+                <p>Rend: ${this.#obj.types[0].type.name}<p>
+                <p>Típusa: ${this.#obj.types[1].type.name}<p>
             </div>`;
     this.szuloElem.insertAdjacentHTML("beforeend", k);
   }
