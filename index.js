@@ -25,10 +25,10 @@ function pokemonMegjelenit(adat) {
   new Pokemon(adat, taroloElem);
 }
 
-function infoMegjelenit(adat) {
-  obj = adat;
-  new Info(adat, infoElem);
-}
+// function infoMegjelenit(adat) {
+//   obj = adat;
+//   new Info(adat, infoElem);
+// }
 
 
 window.addEventListener("pokemon",  (event) => {
