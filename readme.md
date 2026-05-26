@@ -3,7 +3,6 @@
 ## Pages Link: https://frnc36.github.io/magori_ferenc_pokemonDoga/
 
 ### Leírás:
-
 Ez a projekt egy egyszerű, objektumorientált JavaScript alkalmazás, amely a **PokeAPI** segítségével Pokémon adatait kéri le és jeleníti meg.  
 A felépítés célja az **OOP szemlélet** és az **eseményalapú kommunikáció** gyakorlása.
 
